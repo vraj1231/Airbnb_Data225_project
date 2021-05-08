@@ -1,4 +1,4 @@
-#  Califronia Airbnb Data Analysis
+#  California Airbnb Data Analysis
 
 ## DATA225 project
 
