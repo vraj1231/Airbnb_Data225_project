@@ -12,7 +12,8 @@ Using copy commands, we will be importing data from Dynamodb to Amazon Redshift.
 
 Finally, Using **AWS Quicksight** tool, will be doing data visualization from amazon redshift by writing sql queries.
 
-![image](https://user-images.githubusercontent.com/60303995/117522064-13e17600-af66-11eb-8fbe-f2010ee6111d.png)
+![image](https://user-images.githubusercontent.com/60303995/117523472-5fe3e900-af6d-11eb-87ce-f621c0e844c9.png)
+
 
 ## Motivation
 
