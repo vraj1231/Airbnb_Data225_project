@@ -14,3 +14,9 @@ Finally, Using **AWS Quicksight** tool, will be doing data visualization from am
 
 ![image](https://user-images.githubusercontent.com/60303995/117522064-13e17600-af66-11eb-8fbe-f2010ee6111d.png)
 
+##Motivation
+
+There are over 38300 Airbnb listings in California as of February,2021, which approximates to around 4 houses being rented per square mile. Airbnb has seen an exponential increase in the number of listings in California each year and has gained a lot of popularity. By analysing the number of listings and occupancy rates, we can understand demand rates and also provide metrics for people who would like to make an investment in Airbnb and rent out their properties. Previously collected data and reviews help understand how the occupancy rate can be increased.
+
+
+
